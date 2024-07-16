@@ -27,10 +27,22 @@ Open the APK file to install the app.
   <tr>
      <td>Register Screen</td>
      <td>Verification Screen</td>
+     <td>Bookings Screen</td>
   </tr>
   <tr>
     <td><img src="https://github.com/ReactNativeSandeep/Wild-Fox-Travels/assets/64374265/d2b88ebb-c979-4e15-9241-f7dc5d8e3e05" width=320 height=480></td>
     <td><img src="https://github.com/ReactNativeSandeep/Wild-Fox-Travels/assets/64374265/91912e83-5906-49b4-9407-7a4fa60172c5" width=320 height=480></td>
+    <td><img src="https://github.com/user-attachments/assets/26c145c2-402b-4437-8803-670d72ef3ef7" width=320 height=480></td>
   </tr>
 </table>
 
+<table>
+  <tr>
+     <td>Home Screen</td>
+     <td>Profile Screen</td>
+  </tr>
+  <tr>
+    <td><img src="https://github.com/user-attachments/assets/0337f7d0-9701-4093-9e21-de34b1a3b2f1" width=320 height=480></td>
+    <td><img src="https://github.com/user-attachments/assets/8ed0a2b9-dc00-45e4-b2a6-60ca98693bae" width=320 height=480></td>
+  </tr>
+</table>
