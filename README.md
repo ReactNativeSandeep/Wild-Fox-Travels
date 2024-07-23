@@ -39,10 +39,12 @@ Open the APK file to install the app.
 <table>
   <tr>
      <td>Home Screen</td>
+     <td>Booking Review Screen</td>
      <td>Profile Screen</td>
   </tr>
   <tr>
     <td><img src="https://github.com/user-attachments/assets/0337f7d0-9701-4093-9e21-de34b1a3b2f1" width=320 height=480></td>
+    <td><img src="https://github.com/user-attachments/assets/3d4326d7-feca-47d7-8b12-10453ee8aab8" width=320 height=480></td>
     <td><img src="https://github.com/user-attachments/assets/8ed0a2b9-dc00-45e4-b2a6-60ca98693bae" width=320 height=480></td>
   </tr>
 </table>
